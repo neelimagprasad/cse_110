@@ -4,7 +4,8 @@
 
 ### Profile
 
-My name is **Neelima Prasad**, and I am a mathematics-computer science major at UCSD. 
+My name is **Neelima Prasad**, and I am a mathematics-computer science major at UCSD. *to skip to my work experience section, skip* [here](https://github.com/neelimagprasad/cse_110/blob/gh-pages/index.md#work-experience)
+
 I am originally from **Los Alamos, NM**, where I lived for over 18 years. It is a beautiful mountain town, with a very small population. I am an amature photographer, and it is a hobby that I've gotten to really explore during quarantine. Here some pictures I took of my town. 
 
 
