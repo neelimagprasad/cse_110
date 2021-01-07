@@ -16,6 +16,10 @@ I have worked at the Los Alamos National Laboratory for over 3 years as an inter
 
 One of my favorite quotes that I think ~~really~~ applies to computer programming is: > Genius is one percent inspiration and ninety-nine percent perspiration.
 
+In the words of Abraham Lincoln:
+
+> Pardon my French
+
 Any pieces of informal code I write will be available on my page and can be used and edited using the command `git clone`
 
 I love learning new programming languages. Below are a list of the ones that I am comfortable with, and some that I would like to be more comfortable with by the end of this year. 
