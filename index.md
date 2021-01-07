@@ -14,7 +14,9 @@ I am originally from **Los Alamos, NM**, where I lived for over 18 years. It is 
 
 I have worked at the Los Alamos National Laboratory for over 3 years as an intern. I am currently working in crpytography, specifically with lattices. I used to work in the astrophysics department, where I am an author in a published paper, attached [here](https://academic.oup.com/mnras/article/485/1/203/5315803/)
 
-One of my favorite quotes that I think ~~really~~ applies to computer programming is: > Genius is one percent inspiration and ninety-nine percent perspiration.
+One of my favorite quotes that I think ~~really~~ applies to computer programming is: 
+
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 
 In the words of Abraham Lincoln:
 
