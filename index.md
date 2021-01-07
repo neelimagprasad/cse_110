@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to Neelima's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/neelimagprasad/cse_110/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Profile
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is **Neelima Prasad**, and I am a mathematics-computer science major at UCSD. 
+I am originally from **Los Alamos, NM**, where I lived for over 18 years. It is a beautiful mountain town, with a very small population. I am a amature photographer, and it is a hobby that I've gotten to really explore during quarantine. Here some pictures I took of my town. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![P1050905](https://user-images.githubusercontent.com/50184924/103735007-5a1fcc00-4faa-11eb-9766-f7a092cb9e0b.jpg)
+<img width="963" alt="image_fall" src="https://user-images.githubusercontent.com/50184924/103735256-e29e6c80-4faa-11eb-8645-ca78eb2979f6.png">
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+I have worked at the Los Alamos National Laboratory for over 3 years as an intern. I am currently working in crpytography, specifically with lattices. I used to work in the astrophysics department, where I am an author in a published paper, attached here [paper](academic.oup.com/mnras/article/485/1/203/5315803)
 
-**Bold** and _Italic_ and `Code` text
+One of my favorite quotes that I think ~~really~~ applies to computer programming is, > Genius is one percent inspiration and ninety-nine percent perspiration.
 
-[Link](url) and ![Image](src)
-```
+Any pieces of informal code I write will be available on my page and can be used and edited using the command `git clone`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I love learning new programming languages. Below are a list of the ones that I am comfortable with, and some that I would like to be more comfortable with by the end of this year. 
 
-### Jekyll Themes
+- [x] C++
+- [x] C
+- [x] Java
+- [x] Python
+- [x] Matlab
+- [ ] Javascript
+- [ ] Julia
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neelimagprasad/cse_110/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am really excited for CSE 110! Some of the skills I am most looking forward to learning/improving upon are
+- Working in a manner that is similar to industry
+- Learning how to work collaboratively on a coding project 
+- Understanding how to not only write code, but write code that others can read and understand easily
+`
