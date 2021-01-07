@@ -32,6 +32,7 @@ I love learning new programming languages. Below are a list of the ones that I a
 - [x] Matlab
 - [ ] Javascript
 - [ ] Julia
+In my [readme](README.md) I state my favorite programming language. 
 
 I am really excited for CSE 110! Some of the skills I am most looking forward to learning/improving upon are
 - Working in a manner that is similar to industry
